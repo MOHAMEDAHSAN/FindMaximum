@@ -52,13 +52,11 @@ def max_marks(list1):
 ```
 ## Output:
 i)	# To find the maximum of marks using the list method sort.
-![q1](q1.png)
-
+![q1](/qnsort.png)
 ii)	# To find the maximum marks using the list method max().
-![q2](/q2.png) 
-
+![q2](/qnmax.png) 
 iii) # To find the maximum marks without using builtin functions.
-![q3](/q3.png)
+![q3](/qn.png)
 
 
 ## Result:
